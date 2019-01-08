@@ -1,0 +1,11 @@
+/home/theflash/Documents/CSharp/MyApps/04.BodyMassIndex/obj/Debug/netcoreapp2.2/04.BodyMassIndex.csprojAssemblyReference.cache
+/home/theflash/Documents/CSharp/MyApps/04.BodyMassIndex/obj/Debug/netcoreapp2.2/04.BodyMassIndex.csproj.CoreCompileInputs.cache
+/home/theflash/Documents/CSharp/MyApps/04.BodyMassIndex/obj/Debug/netcoreapp2.2/04.BodyMassIndex.AssemblyInfoInputs.cache
+/home/theflash/Documents/CSharp/MyApps/04.BodyMassIndex/obj/Debug/netcoreapp2.2/04.BodyMassIndex.AssemblyInfo.cs
+/home/theflash/Documents/CSharp/MyApps/04.BodyMassIndex/bin/Debug/netcoreapp2.2/04.BodyMassIndex.deps.json
+/home/theflash/Documents/CSharp/MyApps/04.BodyMassIndex/bin/Debug/netcoreapp2.2/04.BodyMassIndex.runtimeconfig.json
+/home/theflash/Documents/CSharp/MyApps/04.BodyMassIndex/bin/Debug/netcoreapp2.2/04.BodyMassIndex.runtimeconfig.dev.json
+/home/theflash/Documents/CSharp/MyApps/04.BodyMassIndex/bin/Debug/netcoreapp2.2/04.BodyMassIndex.dll
+/home/theflash/Documents/CSharp/MyApps/04.BodyMassIndex/bin/Debug/netcoreapp2.2/04.BodyMassIndex.pdb
+/home/theflash/Documents/CSharp/MyApps/04.BodyMassIndex/obj/Debug/netcoreapp2.2/04.BodyMassIndex.dll
+/home/theflash/Documents/CSharp/MyApps/04.BodyMassIndex/obj/Debug/netcoreapp2.2/04.BodyMassIndex.pdb
