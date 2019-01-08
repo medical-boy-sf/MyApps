@@ -11,15 +11,38 @@ namespace _03.BloodSugarMeasurement
 
             if (units == "mg/dl")
             {
-                if (true)
+                if (bloodSugarLevel > 90)
                 {
+                    Console.WriteLine("Hyperglycemia");
+                } 
+                
+                else if (bloodSugarLevel < 50)
+                {
+                    Console.WriteLine(    "Hypoglycemia");
+                }
 
+                else
+                {
+                    Console.WriteLine("Normoglycemia");
                 }
             }
 
             else if (units == "mmol/l")
             {
+                if (bloodSugarLevel > 5)
+                {
+                    Console.WriteLine("Hyperglycemia");
+                } 
+                
+                else if (bloodSugarLevel < 2.8)
+                {
+                    Console.WriteLine(    "Hypoglycemia");
+                }
 
+                else
+                {
+                    Console.WriteLine("Normoglycemia");
+                }                
             }
 
             else
