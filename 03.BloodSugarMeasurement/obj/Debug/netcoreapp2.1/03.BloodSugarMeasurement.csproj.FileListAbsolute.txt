@@ -1,0 +1,11 @@
+/home/theflash/Documents/CSharp/MyApps/03.BloodSugarMeasurement/bin/Debug/netcoreapp2.1/03.BloodSugarMeasurement.deps.json
+/home/theflash/Documents/CSharp/MyApps/03.BloodSugarMeasurement/bin/Debug/netcoreapp2.1/03.BloodSugarMeasurement.runtimeconfig.json
+/home/theflash/Documents/CSharp/MyApps/03.BloodSugarMeasurement/bin/Debug/netcoreapp2.1/03.BloodSugarMeasurement.runtimeconfig.dev.json
+/home/theflash/Documents/CSharp/MyApps/03.BloodSugarMeasurement/bin/Debug/netcoreapp2.1/03.BloodSugarMeasurement.dll
+/home/theflash/Documents/CSharp/MyApps/03.BloodSugarMeasurement/bin/Debug/netcoreapp2.1/03.BloodSugarMeasurement.pdb
+/home/theflash/Documents/CSharp/MyApps/03.BloodSugarMeasurement/obj/Debug/netcoreapp2.1/03.BloodSugarMeasurement.csprojAssemblyReference.cache
+/home/theflash/Documents/CSharp/MyApps/03.BloodSugarMeasurement/obj/Debug/netcoreapp2.1/03.BloodSugarMeasurement.csproj.CoreCompileInputs.cache
+/home/theflash/Documents/CSharp/MyApps/03.BloodSugarMeasurement/obj/Debug/netcoreapp2.1/03.BloodSugarMeasurement.AssemblyInfoInputs.cache
+/home/theflash/Documents/CSharp/MyApps/03.BloodSugarMeasurement/obj/Debug/netcoreapp2.1/03.BloodSugarMeasurement.AssemblyInfo.cs
+/home/theflash/Documents/CSharp/MyApps/03.BloodSugarMeasurement/obj/Debug/netcoreapp2.1/03.BloodSugarMeasurement.dll
+/home/theflash/Documents/CSharp/MyApps/03.BloodSugarMeasurement/obj/Debug/netcoreapp2.1/03.BloodSugarMeasurement.pdb

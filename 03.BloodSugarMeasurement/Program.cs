@@ -18,7 +18,7 @@ namespace _03.BloodSugarMeasurement
                 
                 else if (bloodSugarLevel < 50)
                 {
-                    Console.WriteLine(    "Hypoglycemia");
+                    Console.WriteLine("Hypoglycemia");
                 }
 
                 else
@@ -36,7 +36,7 @@ namespace _03.BloodSugarMeasurement
                 
                 else if (bloodSugarLevel < 2.8)
                 {
-                    Console.WriteLine(    "Hypoglycemia");
+                    Console.WriteLine("Hypoglycemia");
                 }
 
                 else
