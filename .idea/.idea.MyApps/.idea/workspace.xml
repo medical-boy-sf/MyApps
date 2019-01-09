@@ -3,13 +3,32 @@
   <component name="ChangeListManager">
     <list default="true" id="52171c7e-4b59-4688-a286-5095690885a4" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.MyApps/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.MyApps/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyApps.sln" beforeDir="false" afterPath="$PROJECT_DIR$/MyApps.sln" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DayOrNight/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/DayOrNight/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DayOrNight/bin/Debug/netcoreapp2.2/DayOrNight.dll" beforeDir="false" afterPath="$PROJECT_DIR$/DayOrNight/bin/Debug/netcoreapp2.2/DayOrNight.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DayOrNight/bin/Debug/netcoreapp2.2/DayOrNight.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/DayOrNight/bin/Debug/netcoreapp2.2/DayOrNight.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DayOrNight/obj/Debug/netcoreapp2.2/DayOrNight.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/DayOrNight/obj/Debug/netcoreapp2.2/DayOrNight.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DayOrNight/obj/Debug/netcoreapp2.2/DayOrNight.dll" beforeDir="false" afterPath="$PROJECT_DIR$/DayOrNight/obj/Debug/netcoreapp2.2/DayOrNight.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DayOrNight/obj/Debug/netcoreapp2.2/DayOrNight.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/DayOrNight/obj/Debug/netcoreapp2.2/DayOrNight.pdb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
@@ -55,14 +74,14 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/DayOrNight/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="12" column="51" selection-start-line="12" selection-start-column="51" selection-end-line="12" selection-end-column="51" />
+            <state relative-caret-position="162">
+              <caret line="9" column="23" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
               <folding>
-                <marker date="1547058046341" expanded="true" signature="35:468" ph="{...}" />
-                <marker date="1547058046341" expanded="true" signature="55:466" ph="{...}" />
-                <marker date="1547058046341" expanded="true" signature="101:460" ph="{...}" />
-                <marker date="1547058046341" expanded="true" signature="290:362" ph="{...}" />
-                <marker date="1547058046341" expanded="true" signature="380:450" ph="{...}" />
+                <marker date="1547069662780" expanded="true" signature="35:781" ph="{...}" />
+                <marker date="1547069662780" expanded="true" signature="55:779" ph="{...}" />
+                <marker date="1547069662780" expanded="true" signature="101:773" ph="{...}" />
+                <marker date="1547069662780" expanded="true" signature="290:519" ph="{...}" />
+                <marker date="1547069662780" expanded="true" signature="537:763" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -246,12 +265,12 @@
       <workItem from="1546986015051" duration="61000" />
       <workItem from="1546987857258" duration="526000" />
       <workItem from="1547019756731" duration="959000" />
-      <workItem from="1547048408148" duration="3116000" />
+      <workItem from="1547048408148" duration="5215000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4662000" />
+    <option name="totallyTimeSpent" value="6761000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -264,6 +283,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="32" width="1853" height="1048" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26154703" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -272,25 +292,25 @@
       <window_info id="Favorites" order="4" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4924875" visible="true" weight="0.32703003" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.48970506" visible="true" weight="0.32703003" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="NuGet" order="7" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.49972177" weight="0.32925472" />
       <window_info anchor="bottom" id="Database Changes" order="10" />
       <window_info anchor="bottom" id="Unit Tests" order="11" />
-      <window_info anchor="bottom" id="Terminal" order="12" />
-      <window_info anchor="bottom" id="Event Log" order="13" sideWeight="0.5075125" side_tool="true" visible="true" weight="0.32703003" />
-      <window_info anchor="bottom" id="Build" order="14" sideWeight="0.4924875" weight="0.32703003" />
+      <window_info anchor="bottom" id="Terminal" order="12" sideWeight="0.49972177" weight="0.32925472" />
+      <window_info anchor="bottom" id="Event Log" order="13" sideWeight="0.5102949" side_tool="true" visible="true" weight="0.32703003" />
+      <window_info anchor="bottom" id="Build" order="14" sideWeight="0.48970506" weight="0.32703003" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="right" id="Errors In Solution" order="4" />
-      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Database" order="5" weight="0.32999444" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -349,14 +369,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/DayOrNight/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="12" column="51" selection-start-line="12" selection-start-column="51" selection-end-line="12" selection-end-column="51" />
+        <state relative-caret-position="162">
+          <caret line="9" column="23" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
           <folding>
-            <marker date="1547058046341" expanded="true" signature="35:468" ph="{...}" />
-            <marker date="1547058046341" expanded="true" signature="55:466" ph="{...}" />
-            <marker date="1547058046341" expanded="true" signature="101:460" ph="{...}" />
-            <marker date="1547058046341" expanded="true" signature="290:362" ph="{...}" />
-            <marker date="1547058046341" expanded="true" signature="380:450" ph="{...}" />
+            <marker date="1547069662780" expanded="true" signature="35:781" ph="{...}" />
+            <marker date="1547069662780" expanded="true" signature="55:779" ph="{...}" />
+            <marker date="1547069662780" expanded="true" signature="101:773" ph="{...}" />
+            <marker date="1547069662780" expanded="true" signature="290:519" ph="{...}" />
+            <marker date="1547069662780" expanded="true" signature="537:763" ph="{...}" />
           </folding>
         </state>
       </provider>
