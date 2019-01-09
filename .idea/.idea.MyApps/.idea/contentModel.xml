@@ -45,6 +45,18 @@
         <e p="bin" t="ExcludeRecursive" />
         <e p="obj" t="ExcludeRecursive" />
       </e>
+      <e p="DayOrNight" t="IncludeRecursive">
+        <e p="DayOrNight.csproj" t="IncludeRecursive" />
+        <e p="Program.cs" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.2" t="Include">
+              <e p="DayOrNight.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
       <e p="MyApps.sln" t="IncludeFlat" />
       <e p="SumNNumbers_07" t="IncludeRecursive">
         <e p="Program.cs" t="Include" />

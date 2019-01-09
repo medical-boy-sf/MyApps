@@ -2,25 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="52171c7e-4b59-4688-a286-5095690885a4" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.MyApps/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.MyApps/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.MyApps/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.MyApps/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01.DrawingTimeBar/obj/Debug/01.DrawingTimeBar.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/01.DrawingTimeBar/obj/Debug/01.DrawingTimeBar.csprojAssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03.BloodSugarMeasurement/obj/03.BloodSugarMeasurement.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/03.BloodSugarMeasurement/obj/03.BloodSugarMeasurement.csproj.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03.BloodSugarMeasurement/obj/03.BloodSugarMeasurement.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/03.BloodSugarMeasurement/obj/03.BloodSugarMeasurement.csproj.nuget.g.props" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03.BloodSugarMeasurement/obj/Debug/netcoreapp2.1/03.BloodSugarMeasurement.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/03.BloodSugarMeasurement/obj/Debug/netcoreapp2.1/03.BloodSugarMeasurement.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03.BloodSugarMeasurement/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/03.BloodSugarMeasurement/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03.BloodSugarMeasurement/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/03.BloodSugarMeasurement/obj/project.packagespec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/06.AgeLegalStatus/obj/Debug/06.AgeLegalStatus.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/06.AgeLegalStatus/obj/Debug/06.AgeLegalStatus.csprojAssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/08.AreAllLettersThere/bin/Debug/netcoreapp2.2/08.AreAllLettersThere.dll" beforeDir="false" afterPath="$PROJECT_DIR$/08.AreAllLettersThere/bin/Debug/netcoreapp2.2/08.AreAllLettersThere.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/08.AreAllLettersThere/bin/Debug/netcoreapp2.2/08.AreAllLettersThere.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/08.AreAllLettersThere/bin/Debug/netcoreapp2.2/08.AreAllLettersThere.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/08.AreAllLettersThere/obj/08.AreAllLettersThere.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/08.AreAllLettersThere/obj/08.AreAllLettersThere.csproj.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/08.AreAllLettersThere/obj/08.AreAllLettersThere.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/08.AreAllLettersThere/obj/08.AreAllLettersThere.csproj.nuget.g.props" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/08.AreAllLettersThere/obj/Debug/netcoreapp2.2/08.AreAllLettersThere.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/08.AreAllLettersThere/obj/Debug/netcoreapp2.2/08.AreAllLettersThere.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/08.AreAllLettersThere/obj/Debug/netcoreapp2.2/08.AreAllLettersThere.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/08.AreAllLettersThere/obj/Debug/netcoreapp2.2/08.AreAllLettersThere.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/08.AreAllLettersThere/obj/Debug/netcoreapp2.2/08.AreAllLettersThere.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/08.AreAllLettersThere/obj/Debug/netcoreapp2.2/08.AreAllLettersThere.csprojAssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/08.AreAllLettersThere/obj/Debug/netcoreapp2.2/08.AreAllLettersThere.dll" beforeDir="false" afterPath="$PROJECT_DIR$/08.AreAllLettersThere/obj/Debug/netcoreapp2.2/08.AreAllLettersThere.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/08.AreAllLettersThere/obj/Debug/netcoreapp2.2/08.AreAllLettersThere.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/08.AreAllLettersThere/obj/Debug/netcoreapp2.2/08.AreAllLettersThere.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/08.AreAllLettersThere/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/08.AreAllLettersThere/obj/project.assets.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MyApps.sln" beforeDir="false" afterPath="$PROJECT_DIR$/MyApps.sln" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -54,7 +36,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/SumNNumbers_07/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="406">
@@ -70,6 +52,22 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/DayOrNight/Program.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="216">
+              <caret line="12" column="51" selection-start-line="12" selection-start-column="51" selection-end-line="12" selection-end-column="51" />
+              <folding>
+                <marker date="1547058046341" expanded="true" signature="35:468" ph="{...}" />
+                <marker date="1547058046341" expanded="true" signature="55:466" ph="{...}" />
+                <marker date="1547058046341" expanded="true" signature="101:460" ph="{...}" />
+                <marker date="1547058046341" expanded="true" signature="290:362" ph="{...}" />
+                <marker date="1547058046341" expanded="true" signature="380:450" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
     </leaf>
   </component>
   <component name="Git.Settings">
@@ -77,6 +75,7 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/03.BloodSugarMeasurement/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DayOrNight/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/SumNNumbers_07/Program.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
@@ -84,6 +83,7 @@
       <list>
         <option value="$PROJECT_DIR$/03.BloodSugarMeasurement/Program.cs" />
         <option value="$PROJECT_DIR$/SumNNumbers_07/Program.cs" />
+        <option value="$PROJECT_DIR$/DayOrNight/Program.cs" />
       </list>
     </option>
   </component>
@@ -107,11 +107,6 @@
             <path>
               <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
               <item name="MyApps" type="24d0babc:SolutionExplorerModelNode" />
-            </path>
-            <path>
-              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
-              <item name="MyApps" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="03.BloodSugarMeasurement" type="24d0babc:SolutionExplorerModelNode" />
             </path>
           </expand>
           <select />
@@ -137,7 +132,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected=".NET Project.SumNNumbers_07">
+  <component name="RunManager" selected=".NET Project.DayOrNight">
     <configuration name="03.BloodSugarMeasurement" type="DotNetProject" factoryName=".NET Project" temporary="true">
       <option name="EXE_PATH" value="$PROJECT_DIR$/03.BloodSugarMeasurement/bin/Debug/netcoreapp2.1/03.BloodSugarMeasurement.dll" />
       <option name="PROGRAM_PARAMETERS" value="" />
@@ -170,6 +165,24 @@
       <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
       <option name="PROJECT_KIND" value="Console" />
       <option name="PROJECT_TFM" value=".NETFramework,Version=v4.7" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DayOrNight" type="DotNetProject" factoryName=".NET Project" temporary="true">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/DayOrNight/bin/Debug/netcoreapp2.2/DayOrNight.dll" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DayOrNight" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/DayOrNight/DayOrNight.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value=".NETCoreApp,Version=v2.2" />
       <method v="2">
         <option name="Build" enabled="true" />
       </method>
@@ -212,6 +225,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue=".NET Project.DayOrNight" />
         <item itemvalue=".NET Project.SumNNumbers_07" />
         <item itemvalue=".NET Project.06.AgeLegalStatus" />
         <item itemvalue=".NET Project.03.BloodSugarMeasurement" />
@@ -232,12 +246,12 @@
       <workItem from="1546986015051" duration="61000" />
       <workItem from="1546987857258" duration="526000" />
       <workItem from="1547019756731" duration="959000" />
-      <workItem from="1547048408148" duration="2146000" />
+      <workItem from="1547048408148" duration="3116000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3692000" />
+    <option name="totallyTimeSpent" value="4662000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -250,7 +264,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="32" width="1853" height="1048" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26154703" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -259,7 +272,7 @@
       <window_info id="Favorites" order="4" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49582636" visible="true" weight="0.32703003" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4924875" visible="true" weight="0.32703003" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -270,8 +283,8 @@
       <window_info anchor="bottom" id="Database Changes" order="10" />
       <window_info anchor="bottom" id="Unit Tests" order="11" />
       <window_info anchor="bottom" id="Terminal" order="12" />
-      <window_info anchor="bottom" id="Event Log" order="13" sideWeight="0.50417364" side_tool="true" visible="true" weight="0.32703003" />
-      <window_info anchor="bottom" id="Build" order="14" sideWeight="0.49582636" weight="0.32703003" />
+      <window_info anchor="bottom" id="Event Log" order="13" sideWeight="0.5075125" side_tool="true" visible="true" weight="0.32703003" />
+      <window_info anchor="bottom" id="Build" order="14" sideWeight="0.4924875" weight="0.32703003" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -330,6 +343,20 @@
             <marker date="1547049985775" expanded="true" signature="105:1239" ph="{...}" />
             <marker date="1547049985775" expanded="true" signature="185:1165" ph="{...}" />
             <marker date="1547049985775" expanded="true" signature="261:998" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DayOrNight/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="12" column="51" selection-start-line="12" selection-start-column="51" selection-end-line="12" selection-end-column="51" />
+          <folding>
+            <marker date="1547058046341" expanded="true" signature="35:468" ph="{...}" />
+            <marker date="1547058046341" expanded="true" signature="55:466" ph="{...}" />
+            <marker date="1547058046341" expanded="true" signature="101:460" ph="{...}" />
+            <marker date="1547058046341" expanded="true" signature="290:362" ph="{...}" />
+            <marker date="1547058046341" expanded="true" signature="380:450" ph="{...}" />
           </folding>
         </state>
       </provider>

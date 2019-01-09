@@ -1,0 +1,11 @@
+/home/theflash/Documents/MyApps/DayOrNight/bin/Debug/netcoreapp2.2/DayOrNight.deps.json
+/home/theflash/Documents/MyApps/DayOrNight/bin/Debug/netcoreapp2.2/DayOrNight.runtimeconfig.json
+/home/theflash/Documents/MyApps/DayOrNight/bin/Debug/netcoreapp2.2/DayOrNight.runtimeconfig.dev.json
+/home/theflash/Documents/MyApps/DayOrNight/bin/Debug/netcoreapp2.2/DayOrNight.dll
+/home/theflash/Documents/MyApps/DayOrNight/bin/Debug/netcoreapp2.2/DayOrNight.pdb
+/home/theflash/Documents/MyApps/DayOrNight/obj/Debug/netcoreapp2.2/DayOrNight.csprojAssemblyReference.cache
+/home/theflash/Documents/MyApps/DayOrNight/obj/Debug/netcoreapp2.2/DayOrNight.csproj.CoreCompileInputs.cache
+/home/theflash/Documents/MyApps/DayOrNight/obj/Debug/netcoreapp2.2/DayOrNight.AssemblyInfoInputs.cache
+/home/theflash/Documents/MyApps/DayOrNight/obj/Debug/netcoreapp2.2/DayOrNight.AssemblyInfo.cs
+/home/theflash/Documents/MyApps/DayOrNight/obj/Debug/netcoreapp2.2/DayOrNight.dll
+/home/theflash/Documents/MyApps/DayOrNight/obj/Debug/netcoreapp2.2/DayOrNight.pdb
