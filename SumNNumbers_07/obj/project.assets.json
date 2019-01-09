@@ -693,17 +693,17 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/theflash/Documents/MyApps/08.AreAllLettersThere/08.AreAllLettersThere.csproj",
-      "projectName": "08.AreAllLettersThere",
-      "projectPath": "/home/theflash/Documents/MyApps/08.AreAllLettersThere/08.AreAllLettersThere.csproj",
+      "projectUniqueName": "/home/theflash/Documents/MyApps/SumNNumbers_07/SumNNumbers_07.csproj",
+      "projectName": "SumNNumbers_07",
+      "projectPath": "/home/theflash/Documents/MyApps/SumNNumbers_07/SumNNumbers_07.csproj",
       "packagesPath": "/home/theflash/.nuget/packages/",
-      "outputPath": "/home/theflash/Documents/MyApps/08.AreAllLettersThere/obj/",
+      "outputPath": "/home/theflash/Documents/MyApps/SumNNumbers_07/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/share/dotnet/sdk/NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "/home/theflash/.nuget/NuGet/NuGet.Config"
+        "/home/theflash/.config/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.2"

@@ -9,3 +9,14 @@
 /home/theflash/Documents/CSharp/MyApps/08.AreAllLettersThere/bin/Debug/netcoreapp2.2/08.AreAllLettersThere.pdb
 /home/theflash/Documents/CSharp/MyApps/08.AreAllLettersThere/obj/Debug/netcoreapp2.2/08.AreAllLettersThere.dll
 /home/theflash/Documents/CSharp/MyApps/08.AreAllLettersThere/obj/Debug/netcoreapp2.2/08.AreAllLettersThere.pdb
+/home/theflash/Documents/MyApps/08.AreAllLettersThere/bin/Debug/netcoreapp2.2/08.AreAllLettersThere.deps.json
+/home/theflash/Documents/MyApps/08.AreAllLettersThere/bin/Debug/netcoreapp2.2/08.AreAllLettersThere.runtimeconfig.json
+/home/theflash/Documents/MyApps/08.AreAllLettersThere/bin/Debug/netcoreapp2.2/08.AreAllLettersThere.runtimeconfig.dev.json
+/home/theflash/Documents/MyApps/08.AreAllLettersThere/bin/Debug/netcoreapp2.2/08.AreAllLettersThere.dll
+/home/theflash/Documents/MyApps/08.AreAllLettersThere/bin/Debug/netcoreapp2.2/08.AreAllLettersThere.pdb
+/home/theflash/Documents/MyApps/08.AreAllLettersThere/obj/Debug/netcoreapp2.2/08.AreAllLettersThere.csprojAssemblyReference.cache
+/home/theflash/Documents/MyApps/08.AreAllLettersThere/obj/Debug/netcoreapp2.2/08.AreAllLettersThere.csproj.CoreCompileInputs.cache
+/home/theflash/Documents/MyApps/08.AreAllLettersThere/obj/Debug/netcoreapp2.2/08.AreAllLettersThere.AssemblyInfoInputs.cache
+/home/theflash/Documents/MyApps/08.AreAllLettersThere/obj/Debug/netcoreapp2.2/08.AreAllLettersThere.AssemblyInfo.cs
+/home/theflash/Documents/MyApps/08.AreAllLettersThere/obj/Debug/netcoreapp2.2/08.AreAllLettersThere.dll
+/home/theflash/Documents/MyApps/08.AreAllLettersThere/obj/Debug/netcoreapp2.2/08.AreAllLettersThere.pdb

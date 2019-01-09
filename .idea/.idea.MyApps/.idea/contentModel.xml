@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ContentModelStore">
     <e p="$USER_HOME$/.Rider2018.3/system/extResources" t="IncludeRecursive" />
-    <e p="$USER_HOME$/.Rider2018.3/system/resharper-host/local/Transient/ReSharperHost/v183/SolutionCaches/_MyApps.1169860097.00" t="ExcludeRecursive" />
+    <e p="$USER_HOME$/.Rider2018.3/system/resharper-host/local/Transient/ReSharperHost/v183/SolutionCaches/_MyApps.-1782542685.00" t="ExcludeRecursive" />
     <e p="$PROJECT_DIR$" t="IncludeFlat">
       <e p="01.DrawingTimeBar" t="IncludeRecursive">
         <e p="01.DrawingTimeBar.csproj" t="IncludeRecursive" />
@@ -46,6 +46,18 @@
         <e p="obj" t="ExcludeRecursive" />
       </e>
       <e p="MyApps.sln" t="IncludeFlat" />
+      <e p="SumNNumbers_07" t="IncludeRecursive">
+        <e p="Program.cs" t="Include" />
+        <e p="SumNNumbers_07.csproj" t="IncludeRecursive" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.2" t="Include">
+              <e p="SumNNumbers_07.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
       <e p="packages" t="ExcludeRecursive" />
     </e>
   </component>

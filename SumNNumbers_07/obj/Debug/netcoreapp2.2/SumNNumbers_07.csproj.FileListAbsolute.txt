@@ -1,0 +1,11 @@
+/home/theflash/Documents/MyApps/SumNNumbers_07/bin/Debug/netcoreapp2.2/SumNNumbers_07.deps.json
+/home/theflash/Documents/MyApps/SumNNumbers_07/bin/Debug/netcoreapp2.2/SumNNumbers_07.runtimeconfig.json
+/home/theflash/Documents/MyApps/SumNNumbers_07/bin/Debug/netcoreapp2.2/SumNNumbers_07.runtimeconfig.dev.json
+/home/theflash/Documents/MyApps/SumNNumbers_07/bin/Debug/netcoreapp2.2/SumNNumbers_07.dll
+/home/theflash/Documents/MyApps/SumNNumbers_07/bin/Debug/netcoreapp2.2/SumNNumbers_07.pdb
+/home/theflash/Documents/MyApps/SumNNumbers_07/obj/Debug/netcoreapp2.2/SumNNumbers_07.csprojAssemblyReference.cache
+/home/theflash/Documents/MyApps/SumNNumbers_07/obj/Debug/netcoreapp2.2/SumNNumbers_07.csproj.CoreCompileInputs.cache
+/home/theflash/Documents/MyApps/SumNNumbers_07/obj/Debug/netcoreapp2.2/SumNNumbers_07.AssemblyInfoInputs.cache
+/home/theflash/Documents/MyApps/SumNNumbers_07/obj/Debug/netcoreapp2.2/SumNNumbers_07.AssemblyInfo.cs
+/home/theflash/Documents/MyApps/SumNNumbers_07/obj/Debug/netcoreapp2.2/SumNNumbers_07.dll
+/home/theflash/Documents/MyApps/SumNNumbers_07/obj/Debug/netcoreapp2.2/SumNNumbers_07.pdb

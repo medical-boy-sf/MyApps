@@ -1,19 +1,19 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "/home/theflash/Documents/MyApps/03.BloodSugarMeasurement/03.BloodSugarMeasurement.csproj",
-    "projectName": "03.BloodSugarMeasurement",
-    "projectPath": "/home/theflash/Documents/MyApps/03.BloodSugarMeasurement/03.BloodSugarMeasurement.csproj",
-    "outputPath": "/home/theflash/Documents/MyApps/03.BloodSugarMeasurement/obj/",
+    "projectUniqueName": "/home/theflash/Documents/MyApps/SumNNumbers_07/SumNNumbers_07.csproj",
+    "projectName": "SumNNumbers_07",
+    "projectPath": "/home/theflash/Documents/MyApps/SumNNumbers_07/SumNNumbers_07.csproj",
+    "outputPath": "/home/theflash/Documents/MyApps/SumNNumbers_07/obj/",
     "projectStyle": "PackageReference",
     "fallbackFolders": [
       "/usr/share/dotnet/sdk/NuGetFallbackFolder"
     ],
     "originalTargetFrameworks": [
-      "netcoreapp2.1"
+      "netcoreapp2.2"
     ],
     "frameworks": {
-      "netcoreapp2.1": {
+      "netcoreapp2.2": {
         "projectReferences": {}
       }
     },
@@ -24,12 +24,12 @@
     }
   },
   "frameworks": {
-    "netcoreapp2.1": {
+    "netcoreapp2.2": {
       "dependencies": {
         "Microsoft.NETCore.App": {
           "suppressParent": "All",
           "target": "Package",
-          "version": "[2.1.0, )",
+          "version": "[2.2.0, )",
           "autoReferenced": true
         }
       },

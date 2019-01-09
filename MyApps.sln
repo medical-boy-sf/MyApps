@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.BloodSugarMeasurement", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.AgeLegalStatus", "06.AgeLegalStatus\06.AgeLegalStatus.csproj", "{F2340B67-21E3-46C5-93AD-56EEE92D875D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumNNumbers_07", "SumNNumbers_07\SumNNumbers_07.csproj", "{B4C27A1B-ADB4-45C6-BA12-83CEA7F94FE2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{F2340B67-21E3-46C5-93AD-56EEE92D875D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F2340B67-21E3-46C5-93AD-56EEE92D875D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F2340B67-21E3-46C5-93AD-56EEE92D875D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B4C27A1B-ADB4-45C6-BA12-83CEA7F94FE2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4C27A1B-ADB4-45C6-BA12-83CEA7F94FE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4C27A1B-ADB4-45C6-BA12-83CEA7F94FE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4C27A1B-ADB4-45C6-BA12-83CEA7F94FE2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
