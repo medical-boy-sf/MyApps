@@ -1,0 +1,22 @@
+﻿<Properties StartupConfiguration="{F2340B67-21E3-46C5-93AD-56EEE92D875D}|Default">
+  <MonoDevelop.Ide.ItemProperties.03.BloodSugarMeasurement PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.06.AgeLegalStatus PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="06.AgeLegalStatus/Program.cs">
+    <Files>
+      <File FileName="03.BloodSugarMeasurement/Program.cs" Line="1" Column="1" />
+      <File FileName="01.DrawingTimeBar/Program.cs" Line="1" Column="1" />
+      <File FileName="06.AgeLegalStatus/Program.cs" Line="23" Column="42" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.01.DrawingTimeBar PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.02.LatinOrCyrillic PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/home/theflash/Documents/CSharp/MyApps/03.BloodSugarMeasurement/Program.cs" relfile="03.BloodSugarMeasurement/Program.cs" line="12" column="1" />
+      <Breakpoint file="/home/theflash/Documents/CSharp/MyApps/01.DrawingTimeBar/Program.cs" relfile="01.DrawingTimeBar/Program.cs" line="12" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

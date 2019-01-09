@@ -6,6 +6,9 @@
     "projectPath": "/home/theflash/Documents/CSharp/MyApps/03.BloodSugarMeasurement/03.BloodSugarMeasurement.csproj",
     "outputPath": "/home/theflash/Documents/CSharp/MyApps/03.BloodSugarMeasurement/obj/",
     "projectStyle": "PackageReference",
+    "fallbackFolders": [
+      "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+    ],
     "originalTargetFrameworks": [
       "netcoreapp2.1"
     ],

@@ -49,8 +49,6 @@ namespace _03.BloodSugarMeasurement
             {
                 Console.WriteLine("Unrecognized unit. Check if you have spelled correctly - 'mg/dl' or 'mmol/l'");
             }
-
-
         }
     }
 }

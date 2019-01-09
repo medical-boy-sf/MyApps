@@ -2,14 +2,28 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="52171c7e-4b59-4688-a286-5095690885a4" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/01.DrawingTimeBar/obj/Debug/01.DrawingTimeBar.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/01.DrawingTimeBar/obj/Debug/01.DrawingTimeBar.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.MyApps/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.MyApps/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.MyApps/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.MyApps/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01.DrawingTimeBar/01.DrawingTimeBar.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/01.DrawingTimeBar/01.DrawingTimeBar.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01.DrawingTimeBar/bin/Debug/01.DrawingTimeBar.exe" beforeDir="false" afterPath="$PROJECT_DIR$/01.DrawingTimeBar/bin/Debug/01.DrawingTimeBar.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01.DrawingTimeBar/bin/Debug/01.DrawingTimeBar.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/01.DrawingTimeBar/bin/Debug/01.DrawingTimeBar.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01.DrawingTimeBar/obj/Debug/01.DrawingTimeBar.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/01.DrawingTimeBar/obj/Debug/01.DrawingTimeBar.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01.DrawingTimeBar/obj/Debug/01.DrawingTimeBar.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/01.DrawingTimeBar/obj/Debug/01.DrawingTimeBar.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01.DrawingTimeBar/obj/Debug/01.DrawingTimeBar.exe" beforeDir="false" afterPath="$PROJECT_DIR$/01.DrawingTimeBar/obj/Debug/01.DrawingTimeBar.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01.DrawingTimeBar/obj/Debug/01.DrawingTimeBar.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/01.DrawingTimeBar/obj/Debug/01.DrawingTimeBar.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02.LatinOrCyrillic/02.LatinOrCyrillic.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/02.LatinOrCyrillic/02.LatinOrCyrillic.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02.LatinOrCyrillic/bin/Debug/02.LatinOrCyrillic.exe" beforeDir="false" afterPath="$PROJECT_DIR$/02.LatinOrCyrillic/bin/Debug/02.LatinOrCyrillic.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02.LatinOrCyrillic/bin/Debug/02.LatinOrCyrillic.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/02.LatinOrCyrillic/bin/Debug/02.LatinOrCyrillic.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02.LatinOrCyrillic/obj/Debug/02.LatinOrCyrillic.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/02.LatinOrCyrillic/obj/Debug/02.LatinOrCyrillic.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02.LatinOrCyrillic/obj/Debug/02.LatinOrCyrillic.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/02.LatinOrCyrillic/obj/Debug/02.LatinOrCyrillic.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02.LatinOrCyrillic/obj/Debug/02.LatinOrCyrillic.exe" beforeDir="false" afterPath="$PROJECT_DIR$/02.LatinOrCyrillic/obj/Debug/02.LatinOrCyrillic.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02.LatinOrCyrillic/obj/Debug/02.LatinOrCyrillic.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/02.LatinOrCyrillic/obj/Debug/02.LatinOrCyrillic.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/03.BloodSugarMeasurement/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/03.BloodSugarMeasurement/Program.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/03.BloodSugarMeasurement/obj/03.BloodSugarMeasurement.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/03.BloodSugarMeasurement/obj/03.BloodSugarMeasurement.csproj.nuget.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/03.BloodSugarMeasurement/obj/03.BloodSugarMeasurement.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/03.BloodSugarMeasurement/obj/03.BloodSugarMeasurement.csproj.nuget.g.props" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03.BloodSugarMeasurement/obj/03.BloodSugarMeasurement.csproj.nuget.g.targets" beforeDir="false" afterPath="$PROJECT_DIR$/03.BloodSugarMeasurement/obj/03.BloodSugarMeasurement.csproj.nuget.g.targets" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03.BloodSugarMeasurement/obj/Debug/netcoreapp2.1/03.BloodSugarMeasurement.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/03.BloodSugarMeasurement/obj/Debug/netcoreapp2.1/03.BloodSugarMeasurement.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03.BloodSugarMeasurement/obj/Debug/netcoreapp2.1/03.BloodSugarMeasurement.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/03.BloodSugarMeasurement/obj/Debug/netcoreapp2.1/03.BloodSugarMeasurement.csprojAssemblyReference.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/03.BloodSugarMeasurement/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/03.BloodSugarMeasurement/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03.BloodSugarMeasurement/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/03.BloodSugarMeasurement/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyApps.sln" beforeDir="false" afterPath="$PROJECT_DIR$/MyApps.sln" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -22,21 +36,21 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/03.BloodSugarMeasurement/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-301">
-              <caret line="18" column="45" selection-start-line="18" selection-start-column="45" selection-end-line="18" selection-end-column="45" />
+            <state relative-caret-position="210">
+              <caret line="50" column="13" lean-forward="true" selection-start-line="50" selection-start-column="13" selection-end-line="50" selection-end-column="13" />
               <folding>
-                <marker date="1546988162119" expanded="true" signature="50:1376" ph="{...}" />
-                <marker date="1546988162119" expanded="true" signature="70:1374" ph="{...}" />
-                <marker date="1546988162119" expanded="true" signature="103:1368" ph="{...}" />
-                <marker date="1546988162119" expanded="true" signature="266:702" ph="{...}" />
-                <marker date="1546988162119" expanded="true" signature="322:414" ph="{...}" />
-                <marker date="1546988162119" expanded="true" signature="479:574" ph="{...}" />
-                <marker date="1546988162119" expanded="true" signature="596:688" ph="{...}" />
-                <marker date="1546988162119" expanded="true" signature="743:1195" ph="{...}" />
-                <marker date="1546988162119" expanded="true" signature="798:890" ph="{...}" />
-                <marker date="1546988162119" expanded="true" signature="956:1051" ph="{...}" />
-                <marker date="1546988162119" expanded="true" signature="1073:1165" ph="{...}" />
-                <marker date="1546988162119" expanded="true" signature="1213:1356" ph="{...}" />
+                <marker date="1547020763741" expanded="true" signature="50:1366" ph="{...}" />
+                <marker date="1547020763741" expanded="true" signature="70:1364" ph="{...}" />
+                <marker date="1547020763741" expanded="true" signature="103:1358" ph="{...}" />
+                <marker date="1547020763741" expanded="true" signature="266:698" ph="{...}" />
+                <marker date="1547020763741" expanded="true" signature="322:414" ph="{...}" />
+                <marker date="1547020763741" expanded="true" signature="479:570" ph="{...}" />
+                <marker date="1547020763741" expanded="true" signature="592:684" ph="{...}" />
+                <marker date="1547020763741" expanded="true" signature="739:1187" ph="{...}" />
+                <marker date="1547020763741" expanded="true" signature="794:886" ph="{...}" />
+                <marker date="1547020763741" expanded="true" signature="952:1043" ph="{...}" />
+                <marker date="1547020763741" expanded="true" signature="1065:1157" ph="{...}" />
+                <marker date="1547020763741" expanded="true" signature="1205:1348" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -69,7 +83,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="FileSystemExplorer" />
       <pane id="AssemblyExplorer" />
       <pane id="SolutionExplorer">
         <subPane>
@@ -88,6 +101,7 @@
         </subPane>
         <option name="show-all-files" value="false" />
       </pane>
+      <pane id="FileSystemExplorer" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -107,7 +121,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected=".NET Project.03.BloodSugarMeasurement">
+  <component name="RunManager" selected=".NET Project.06.AgeLegalStatus">
     <configuration name="03.BloodSugarMeasurement" type="DotNetProject" factoryName=".NET Project" temporary="true">
       <option name="EXE_PATH" value="$PROJECT_DIR$/03.BloodSugarMeasurement/bin/Debug/netcoreapp2.1/03.BloodSugarMeasurement.dll" />
       <option name="PROGRAM_PARAMETERS" value="" />
@@ -122,6 +136,24 @@
       <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
       <option name="PROJECT_KIND" value="DotNetCore" />
       <option name="PROJECT_TFM" value=".NETCoreApp,Version=v2.1" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="06.AgeLegalStatus" type="DotNetProject" factoryName=".NET Project" temporary="true">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/06.AgeLegalStatus/bin/Debug/06.AgeLegalStatus.exe" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/06.AgeLegalStatus/bin/Debug" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/06.AgeLegalStatus/06.AgeLegalStatus.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="Console" />
+      <option name="PROJECT_TFM" value=".NETFramework,Version=v4.7" />
       <method v="2">
         <option name="Build" enabled="true" />
       </method>
@@ -146,12 +178,14 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue=".NET Project.06.AgeLegalStatus" />
         <item itemvalue=".NET Project.03.BloodSugarMeasurement" />
       </list>
     </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
+    <supportedVersion>125</supportedVersion>
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -162,11 +196,12 @@
       <updated>1546985997168</updated>
       <workItem from="1546986015051" duration="61000" />
       <workItem from="1546987857258" duration="526000" />
+      <workItem from="1547019756731" duration="959000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="587000" />
+    <option name="totallyTimeSpent" value="1546000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -180,14 +215,15 @@
   <component name="ToolWindowManager">
     <frame x="-1" y="25" width="1368" height="744" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25378788" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25757575" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Capture Tool" order="3" />
       <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Build" sideWeight="0.49772727" weight="0.32744783" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49772727" weight="0.32744783" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -198,7 +234,7 @@
       <window_info anchor="bottom" id="Database Changes" order="10" />
       <window_info anchor="bottom" id="Unit Tests" order="11" />
       <window_info anchor="bottom" id="Terminal" order="12" />
-      <window_info anchor="bottom" id="Event Log" order="13" side_tool="true" visible="true" weight="0.32905295" />
+      <window_info anchor="bottom" id="Event Log" order="13" sideWeight="0.5022727" side_tool="true" visible="true" weight="0.32744783" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -228,21 +264,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/03.BloodSugarMeasurement/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-301">
-          <caret line="18" column="45" selection-start-line="18" selection-start-column="45" selection-end-line="18" selection-end-column="45" />
+        <state relative-caret-position="210">
+          <caret line="50" column="13" lean-forward="true" selection-start-line="50" selection-start-column="13" selection-end-line="50" selection-end-column="13" />
           <folding>
-            <marker date="1546988162119" expanded="true" signature="50:1376" ph="{...}" />
-            <marker date="1546988162119" expanded="true" signature="70:1374" ph="{...}" />
-            <marker date="1546988162119" expanded="true" signature="103:1368" ph="{...}" />
-            <marker date="1546988162119" expanded="true" signature="266:702" ph="{...}" />
-            <marker date="1546988162119" expanded="true" signature="322:414" ph="{...}" />
-            <marker date="1546988162119" expanded="true" signature="479:574" ph="{...}" />
-            <marker date="1546988162119" expanded="true" signature="596:688" ph="{...}" />
-            <marker date="1546988162119" expanded="true" signature="743:1195" ph="{...}" />
-            <marker date="1546988162119" expanded="true" signature="798:890" ph="{...}" />
-            <marker date="1546988162119" expanded="true" signature="956:1051" ph="{...}" />
-            <marker date="1546988162119" expanded="true" signature="1073:1165" ph="{...}" />
-            <marker date="1546988162119" expanded="true" signature="1213:1356" ph="{...}" />
+            <marker date="1547020763741" expanded="true" signature="50:1366" ph="{...}" />
+            <marker date="1547020763741" expanded="true" signature="70:1364" ph="{...}" />
+            <marker date="1547020763741" expanded="true" signature="103:1358" ph="{...}" />
+            <marker date="1547020763741" expanded="true" signature="266:698" ph="{...}" />
+            <marker date="1547020763741" expanded="true" signature="322:414" ph="{...}" />
+            <marker date="1547020763741" expanded="true" signature="479:570" ph="{...}" />
+            <marker date="1547020763741" expanded="true" signature="592:684" ph="{...}" />
+            <marker date="1547020763741" expanded="true" signature="739:1187" ph="{...}" />
+            <marker date="1547020763741" expanded="true" signature="794:886" ph="{...}" />
+            <marker date="1547020763741" expanded="true" signature="952:1043" ph="{...}" />
+            <marker date="1547020763741" expanded="true" signature="1065:1157" ph="{...}" />
+            <marker date="1547020763741" expanded="true" signature="1205:1348" ph="{...}" />
           </folding>
         </state>
       </provider>
