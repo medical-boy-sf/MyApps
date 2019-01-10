@@ -4,9 +4,3 @@
 /home/theflash/Documents/CSharp/MyApps/06.AgeLegalStatus/obj/Debug/06.AgeLegalStatus.csproj.CoreCompileInputs.cache
 /home/theflash/Documents/CSharp/MyApps/06.AgeLegalStatus/obj/Debug/06.AgeLegalStatus.exe
 /home/theflash/Documents/CSharp/MyApps/06.AgeLegalStatus/obj/Debug/06.AgeLegalStatus.pdb
-/home/theflash/Documents/MyApps/06.AgeLegalStatus/bin/Debug/06.AgeLegalStatus.exe
-/home/theflash/Documents/MyApps/06.AgeLegalStatus/bin/Debug/06.AgeLegalStatus.pdb
-/home/theflash/Documents/MyApps/06.AgeLegalStatus/obj/Debug/06.AgeLegalStatus.csprojAssemblyReference.cache
-/home/theflash/Documents/MyApps/06.AgeLegalStatus/obj/Debug/06.AgeLegalStatus.csproj.CoreCompileInputs.cache
-/home/theflash/Documents/MyApps/06.AgeLegalStatus/obj/Debug/06.AgeLegalStatus.exe
-/home/theflash/Documents/MyApps/06.AgeLegalStatus/obj/Debug/06.AgeLegalStatus.pdb
